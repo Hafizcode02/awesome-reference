@@ -7,20 +7,21 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 ### Contents
 
 - [Awesome Reference](#awesome-reference)
-  - [Networking](#networking)
-  - [Programming](#programming)
-    - [Article](#article)
-    - [Software Engineering Concept](#software-engineering-concept)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Go Programming Language](#go-programming-language)
-    - [DevOps](#devops)
-    - [Cheatsheet](#cheatsheet)
-    - [Competitive Programming](#competitive-programming)
-  - [Cybersecurity](#cybersecurity)
-    - [Hacking](#hacking)
-    - [Bug Bounty Write-ups](#bug-bounty)
-    - [CTFs](#ctfs)
-  - [Tech Talk](#tech-talk)
+    - [Networking](#networking)
+    - [Programming](#programming)
+        - [Article](#article)
+        - [Software Engineering Concept](#software-engineering-concept)
+        - [Natural Language Processing](#natural-language-processing)
+        - [Go Programming Language](#go-programming-language)
+        - [DevOps](#devops)
+        - [Cheatsheet](#cheatsheet)
+        - [Competitive Programming](#competitive-programming)
+    - [Cybersecurity](#cybersecurity)
+        - [Hacking](#hacking)
+        - [Bug Bounty Write-ups](#bug-bounty)
+        - [CTFs](#ctfs)
+    - [Tech Talk](#tech-talk)
+    - [Podcast](#podcast)
 - [Other Sources](https://github.com/sindresorhus/awesome)
 - [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
@@ -48,10 +49,12 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [https://www.duniailkom.com/](https://www.duniailkom.com/)
 - [https://www.malasngoding.com/](https://www.malasngoding.com/)
 - [https://www.codepolitan.com/articles](https://www.codepolitan.com/articles)
+- [https://kodinger.com/](https://kodinger.com/)
 
 ### English
 
 - [https://dev.to/](https://dev.to/)
+- [https://morioh.com/](https://morioh.com/)
 - [https://scotch.io/](https://scotch.io/)
 - [https://www.w3schools.com/](https://www.w3schools.com/)
 - [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
@@ -131,8 +134,9 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 #### Bahasa
 
-- [https://abaykan.com/](https://abaykan.com/)
+- [https://abaykan.com/](https://abaykan.com/category/write-up/)
 - [https://infosec.zerobyte.id/](https://infosec.zerobyte.id/)
+- [http://nakanosec.com/](http://nakanosec.com/)
 
 #### English
 
@@ -161,6 +165,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
 - [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/featured) - Videos on penetration testing, malware analysis, ethical hacking etc.
 
 ### Twitch
 
@@ -174,6 +179,8 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [https://graylife.co/](https://graylife.co/)
 - [https://noobsec.org/](https://noobsec.org/)
+- [https://apapedulimu.click/](https://apapedulimu.click/)
+- [https://daffa.info/](https://daffa.info/)
 
 #### English
 
@@ -220,6 +227,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitation, Mobile Security).
 - [Martin Carlisle](https://www.youtube.com/user/carlislemc) - Computer science education videos for Java programming and the picoCTF computer security competition.
+- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 
 ### Other Sources
 
@@ -243,6 +251,10 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
 
+# Podcast
+
+### Bahasa
+- [Ceritanya Developer](https://ceritanyadeveloper.com/)
 
 # Contributors
 
@@ -267,6 +279,12 @@ Submit other interesting references that you know on the *Pull requests* page.
 </a>
 <a href="https://github.com/ClavinJune">
  <img src="https://avatars3.githubusercontent.com/u/24659468?s=460&v=4" title="Clavin June" width="35" height="35">
+</a>
+<a href="https://github.com/Adelittle">
+ <img src="https://avatars3.githubusercontent.com/u/58516494?s=460&v=4" title="Adelittle" width="35" height="35">
+</a>
+<a href="https://github.com/hasobi">
+ <img src="https://avatars2.githubusercontent.com/u/13960580?s=460&u=70c9804ba8179cfd27c16501d78055262058446b&v=4" title="Hasobi Ro'id Radityo" width="35" height="35">
 </a>
 
 # Report Broken Link
